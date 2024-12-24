@@ -1,5 +1,6 @@
 # Dosa 
 
 *Dosa Flour 
-*light oil
+*karam
+*oil
 
